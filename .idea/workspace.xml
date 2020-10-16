@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d38029db-8d09-4446-8e52-8c8e83342724" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ix6Biu75y2iTFukjgXuH2XA6ja" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d38029db-8d09-4446-8e52-8c8e83342724" name="Default Changelist" comment="" />
+      <created>1602836761552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602836761552</updated>
+      <workItem from="1602836762718" duration="3002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="430" key="ComposerInitDialogKey" timestamp="1602837250800">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="594" y="430" key="ComposerInitDialogKey/0.23.1680.976@0.23.1680.976" timestamp="1602837250800" />
+    <state x="659" y="441" key="NewPhpFileDialog" timestamp="1602840738003">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="659" y="441" key="NewPhpFileDialog/0.23.1680.976@0.23.1680.976" timestamp="1602840738003" />
+    <state x="341" y="150" key="SettingsEditor" timestamp="1602840659061">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="341" y="150" key="SettingsEditor/0.23.1680.976@0.23.1680.976" timestamp="1602840659061" />
+  </component>
+</project>

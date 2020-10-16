@@ -1,0 +1,17 @@
+{
+    "name": "zcontent/icalendar-laravel",
+    "description": "",
+    "authors": [
+        {
+            "name": "Bunthon",
+            "email": "bunthondev@gmail.com"
+        }
+    ],
+	"minimum-stability": "dev",
+	"autoload": {
+	  "psr-4": {
+		"ZContent\\Icalendar-laravel\\": "packages/zcontent/icalendar-laravel/src"
+	  }
+	},
+    "require": {}
+}
